@@ -7,4 +7,6 @@ The Firebase Cloud Messaging Android Quickstart app demonstrates registering an 
 
 <img src="screen/screen1.png"/>
 
+<img src="screen/screen4.png"/>
+
 <img src="screen/screen3.gif"/>
